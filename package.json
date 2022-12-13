@@ -1,0 +1,20 @@
+{
+  "name": "react-template",
+  "version": "1.0.0",
+  "description": "react模版",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zsk0911/react-Template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zsk0911/react-Template/issues"
+  },
+  "homepage": "https://github.com/zsk0911/react-Template#readme"
+}
